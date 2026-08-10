@@ -1,0 +1,1435 @@
+Nation,Region,City,ClubName,Prestige
+ITA,Lombardia,Milano,Team Trezzo Sport,4
+ITA,Lombardia,Milano,Gestisport,3
+ITA,Lombardia,Milano,DDS Milano,4
+ITA,Lombardia,Milano,Nuotatori Milanesi,4
+ITA,Lombardia,Brescia,AN Brescia,4
+ITA,Lombardia,Brescia,Vittoria Alata,3
+ITA,Lombardia,Bergamo,Olimpic Swim Pro,3
+ITA,Lombardia,Varese,Robur et Fides,3
+ITA,Lombardia,Como,Como Nuoto,3
+ITA,Lombardia,Cremona,Canottieri Bissolati,4
+ITA,Lombardia,Mantova,Canottieri Mincio,3
+ITA,Lombardia,Lecco,Lecco Olimpica,2
+ITA,Lombardia,Monza,Nuoto Club Monza,3
+ITA,Lombardia,Pavia,Pavia Nuoto,2
+ITA,Lazio,Roma,CC Aniene,5
+ITA,Lazio,Roma,Aurelia Nuoto,4
+ITA,Lazio,Roma,Tiro a Volo Nuoto,4
+ITA,Lazio,Roma,Forum Sport Center,3
+ITA,Lazio,Roma,Larus Nuoto,4
+ITA,Lazio,Roma,Heaven Due,3
+ITA,Lazio,Roma,Roma Nuoto,3
+ITA,Lazio,Latina,Amatori Nuoto Latina,3
+ITA,Lazio,Viterbo,Cosernuoto,2
+ITA,Lazio,Frosinone,Frosinone Nuoto,2
+ITA,Veneto,Padova,Team Veneto,5
+ITA,Veneto,Padova,Padovanuoto,4
+ITA,Veneto,Verona,Fondazione Bentegodi,4
+ITA,Veneto,Venezia,Nuoto Venezia,3
+ITA,Veneto,Treviso,Natatorium Treviso,4
+ITA,Veneto,Vicenza,Leosport,4
+ITA,Veneto,Belluno,Sportively Belluno,2
+ITA,Veneto,Rovigo,Rovigo Nuoto,2
+ITA,Emilia-Romagna,Imola,Imolanuoto,5
+ITA,Emilia-Romagna,Bologna,CN UISP Bologna,4
+ITA,Emilia-Romagna,Bologna,De Akker Team,4
+ITA,Emilia-Romagna,Parma,Coopernuoto,3
+ITA,Emilia-Romagna,Modena,Modena Nuoto,3
+ITA,Emilia-Romagna,Rimini,Polisportiva Riccione,4
+ITA,Emilia-Romagna,Ravenna,Rinascita Team Romagna,3
+ITA,Emilia-Romagna,Ferrara,CUS Ferrara,2
+ITA,Piemonte,Torino,Centro Nuoto Torino,5
+ITA,Piemonte,Torino,Rari Nantes Torino,4
+ITA,Piemonte,Torino,Sisport,4
+ITA,Piemonte,Novara,Libertas Nuoto Novara,3
+ITA,Piemonte,Cuneo,CSR Granda,3
+ITA,Piemonte,Alessandria,Swimming Club Alessandria,2
+ITA,Toscana,Firenze,Rari Nantes Florentia,4
+ITA,Toscana,Firenze,FlorentiaNuotoClub,4
+ITA,Toscana,Livorno,Livorno Aquatics,4
+ITA,Toscana,Prato,Azzurra Nuoto Prato,3
+ITA,Toscana,Pisa,Canottieri Arno Pisa,3
+ITA,Toscana,Siena,Virtus Poggibonsi,2
+ITA,Liguria,Genova,Genova Nuoto,4
+ITA,Liguria,Genova,Andrea Doria,3
+ITA,Liguria,Genova,Aragno Rivarolesi,3
+ITA,Liguria,Chiavari,Chiavari Nuoto,3
+ITA,Liguria,Savona,Amatori Nuoto Savona,3
+ITA,Campania,Napoli,Circolo Canottieri Napoli,5
+ITA,Campania,Napoli,Olimpic Nuoto Napoli,4
+ITA,Campania,Napoli,Fritz Dennerlein,3
+ITA,Campania,Caserta,Assonuoto Club Caserta,3
+ITA,Campania,Salerno,Dream Team Salerno,3
+ITA,Campania,Avellino,Avellino Nuoto,2
+ITA,Puglia,Bari,CUS Bari,4
+ITA,Puglia,Bari,Netium,3
+ITA,Puglia,Lecce,Olimpica Salentina,3
+ITA,Puglia,Taranto,Mediterraneo Sport,3
+ITA,Puglia,Foggia,Foggia Nuoto,2
+ITA,Sicilia,Palermo,Polisportiva Nadir,4
+ITA,Sicilia,Palermo,Telimar,3
+ITA,Sicilia,Catania,Poseidon Swim,4
+ITA,Sicilia,Catania,Sicilia Nuoto,3
+ITA,Sicilia,Messina,Power Team Messina,2
+ITA,Sardegna,Cagliari,Esperia Cagliari,4
+ITA,Sardegna,Cagliari,Promogest,3
+ITA,Sardegna,Sassari,Sport Full Time,3
+ITA,Marche,Pesaro,Vis Sauro Nuoto,4
+ITA,Marche,Ancona,Vela Nuoto Ancona,3
+ITA,Umbria,Perugia,Centro Nuoto Bastia,3
+ITA,Abruzzo,Pescara,SGT Sport,3
+USA,California,Berkeley,California Golden Bears,5
+USA,California,Stanford,Stanford Swimming,5
+USA,California,Los Angeles,Trojan Swim Club,5
+USA,California,Irvine,Irvine Novaquatics,4
+USA,California,Mission Viejo,Mission Viejo Nadadores,4
+USA,California,Santa Clara,Santa Clara Swim Club,4
+USA,California,Palo Alto,Alto Swim Club,4
+USA,California,San Diego,Aztec Aquatics,3
+USA,California,Pasadena,Rose Bowl Aquatics,3
+USA,California,Brea,Brea Aquatics,3
+USA,California,Clovis,Clovis Swim Club,3
+USA,California,Pleasanton,Pleasanton Seahawks,3
+USA,California,Walnut Creek,Walnut Creek Aquabears,3
+USA,California,La Mirada,La Mirada Armada,3
+USA,California,Roseville,Roseville Aquatics,2
+USA,California,San Jose,San Jose Spartans,2
+USA,California,Fresno,Fresno Dolphins,2
+USA,California,Sacramento,Sacramento Aquatics,2
+USA,California,Santa Monica,Santa Monica Swim,2
+USA,California,Santa Barbara,Santa Barbara Swim,2
+USA,Texas,Austin,Texas Longhorns,5
+USA,Texas,Dallas,Dallas Mustangs,4
+USA,Texas,San Antonio,Alamo Area Aquatics,4
+USA,Texas,Houston,Katy Aquatics,4
+USA,Texas,The Woodlands,Woodlands Swim Team,4
+USA,Texas,Fort Worth,Fort Worth Area Swim,3
+USA,Texas,Southlake,North Texas Nadadores,3
+USA,Texas,Cypress,Fairbanks Swim,3
+USA,Texas,Sugar Land,First Colony Swim,3
+USA,Texas,Frisco,Frisco Aquatics,3
+USA,Texas,Lubbock,Lubbock Swim Club,2
+USA,Texas,El Paso,Aqua Posse,2
+USA,Texas,Corpus Christi,Corpus Christi Swim,2
+USA,Texas,Arlington,Arlington Aquatics,2
+USA,Texas,Plano,Plano Amoeba,2
+USA,Florida,Gainesville,Florida Gators,5
+USA,Florida,Jacksonville,Bolles School Sharks,5
+USA,Florida,Sarasota,Sarasota Sharks,4
+USA,Florida,Fort Lauderdale,Swim Fort Lauderdale,4
+USA,Florida,Miami,Miami Hurricanes,4
+USA,Florida,Orlando,Orlando Aquatics,3
+USA,Florida,Tampa,Tampa Bay Aquatics,3
+USA,Florida,Boca Raton,Boca Raton Swim,3
+USA,Florida,Clearwater,Clearwater Aquatics,3
+USA,Florida,St. Petersburg,St. Pete Aquatics,3
+USA,Florida,Tallahassee,Tallahassee Area,2
+USA,Florida,Coral Springs,Coral Springs Swim,2
+USA,Florida,Jupiter,Jupiter Dragons,2
+USA,Florida,Naples,Naples YMCA,2
+USA,Florida,Pensacola,Greater Pensacola,2
+USA,New York,New York,New York Athletic Club,5
+USA,New York,New York,Asphalt Green Unified,4
+USA,New York,Long Island,Long Island Aquatic,4
+USA,New York,Brooklyn,Brooklyn Mako,3
+USA,New York,Rochester,Rochester Pack,3
+USA,New York,Syracuse,Syracuse Chargers,3
+USA,New York,Buffalo,Buffalo Area,2
+USA,New York,Albany,Albany Starfish,2
+USA,New York,Ithaca,Ithaca Aquatics,2
+USA,New York,Queens,Queens Aquatics,2
+USA,Pennsylvania,Philadelphia,Penn Charter,4
+USA,Pennsylvania,State College,Nittany Lion Aquatic,4
+USA,Pennsylvania,Pittsburgh,Pittsburgh Ruffian,3
+USA,Pennsylvania,Hershey,Hershey Aquatic,3
+USA,Pennsylvania,Allentown,Upper Main Line,3
+USA,Pennsylvania,Lancaster,Lancaster Aquatic,2
+USA,Pennsylvania,Erie,Lake Erie Swim,2
+USA,Pennsylvania,Reading,Reading YMCA,2
+USA,Pennsylvania,Scranton,Scranton Sea Knights,2
+USA,Pennsylvania,Harrisburg,Harrisburg Aquatic,2
+USA,Illinois,Chicago,Chicago Wolf Swim,4
+USA,Illinois,Naperville,Mavericks Swim,4
+USA,Illinois,Chicago,UICC Swim,3
+USA,Illinois,Evanston,Evanston YMCA,3
+USA,Illinois,Champaign,Illini Aquatics,3
+USA,Illinois,Peoria,Peoria Area Water,2
+USA,Illinois,Springfield,Springfield YMCA,2
+USA,Illinois,Rockford,Rockford Marlins,2
+USA,Illinois,Bloomington,Bloomington Waves,2
+USA,Illinois,Aurora,Marmion Aquatics,2
+USA,Ohio,Columbus,Ohio State Swim,5
+USA,Ohio,Cincinnati,Cincinnati Marlins,4
+USA,Ohio,Cleveland,Spire Institute,4
+USA,Ohio,Mason,Mason Manta Rays,4
+USA,Ohio,Dayton,Dayton Raiders,3
+USA,Ohio,Akron,Firestone Akron,3
+USA,Ohio,Toledo,Toledo YMCA,2
+USA,Ohio,Canton,Canton City Swim,2
+USA,Ohio,Hudson,Hudson Heat,2
+USA,Ohio,Springfield,Springfield Family,2
+USA,North Carolina,Charlotte,SwimMAC Carolina,5
+USA,North Carolina,Raleigh,Wolfpack Elite,5
+USA,North Carolina,Cary,TAC Titans,5
+USA,North Carolina,Greensboro,Greensboro Swim,4
+USA,North Carolina,Chapel Hill,North Carolina Aquatic,4
+USA,North Carolina,Wilmington,Wilmington Waves,3
+USA,North Carolina,Winston-Salem,Winston-Salem Swim,3
+USA,North Carolina,Durham,Durham Aquatics,3
+USA,North Carolina,Asheville,Asheville YMCA,2
+USA,North Carolina,High Point,High Point Aquatic,2
+USA,Georgia,Athens,Athens Bulldogs,5
+USA,Georgia,Atlanta,Dynamo Swim Club,5
+USA,Georgia,Atlanta,Swim Atlanta,4
+USA,Georgia,Savannah,Savannah Swim Team,3
+USA,Georgia,Columbus,Columbus Hurricanes,3
+USA,Georgia,Marietta,Marietta Marlins,3
+USA,Georgia,Augusta,Augusta Swim,2
+USA,Georgia,Macon,Macon Waves,2
+USA,Georgia,Alpharetta,Alpharetta Aquatics,2
+USA,Georgia,Roswell,Roswell Rapids,2
+USA,Indiana,Bloomington,Indiana Swim Club,5
+USA,Indiana,Indianapolis,Carmel Swim Club,5
+USA,Indiana,Indianapolis,Fishers Area Swim,4
+USA,Indiana,West Lafayette,Boilermaker Aquatics,4
+USA,Indiana,Fort Wayne,Fort Wayne Swim,3
+USA,Indiana,South Bend,Irish Aquatics,3
+USA,Indiana,Evansville,Evansville Aces,2
+USA,Indiana,Terre Haute,Terre Haute Torpedos,2
+USA,Indiana,Hammond,Hammond Aquatic,2
+USA,Indiana,Columbus,Donner Swim Club,2
+CHN,Zhejiang,Hangzhou,Zhejiang Swimming Team,5
+CHN,Zhejiang,Hangzhou,Hangzhou Aquatics,4
+CHN,Zhejiang,Ningbo,Ningbo Natation,4
+CHN,Zhejiang,Wenzhou,Wenzhou Waves,3
+CHN,Zhejiang,Shaoxing,Shaoxing Swim Club,3
+CHN,Zhejiang,Jiaxing,Jiaxing Dolphins,3
+CHN,Zhejiang,Jinhua,Jinhua Aquatic Center,2
+CHN,Zhejiang,Taizhou,Taizhou Swim Team,2
+CHN,Zhejiang,Lishui,Lishui River Club,2
+CHN,Zhejiang,Quzhou,Quzhou Blue Water,2
+CHN,Shanghai,Shanghai,Shanghai Team,5
+CHN,Shanghai,Shanghai,Pudong Aquatics,4
+CHN,Shanghai,Shanghai,Jiao Tong University,4
+CHN,Shanghai,Shanghai,Minhang Swim Club,3
+CHN,Shanghai,Shanghai,Jing'an Water Dragons,3
+CHN,Shanghai,Shanghai,Xuhui Natation,3
+CHN,Shanghai,Shanghai,Yangpu Swim,2
+CHN,Shanghai,Shanghai,Hongkou Dolphins,2
+CHN,Shanghai,Shanghai,Baoshan Aquatics,2
+CHN,Shanghai,Shanghai,Jiading Sea Lions,2
+CHN,Beijing,Beijing,Beijing Water Cube,5
+CHN,Beijing,Beijing,Tsinghua University,4
+CHN,Beijing,Beijing,Chaoyang Aquatics,4
+CHN,Beijing,Beijing,Haidian Swim Club,3
+CHN,Beijing,Beijing,Shunyi Dragons,3
+CHN,Beijing,Beijing,Fengtai Natation,3
+CHN,Beijing,Beijing,Dongcheng Swim,2
+CHN,Beijing,Beijing,Xicheng Water Polo,2
+CHN,Beijing,Beijing,Daxing Aquatics,2
+CHN,Beijing,Beijing,Tongzhou Blue,2
+CHN,Guangdong,Guangzhou,Guangdong Provincial,5
+CHN,Guangdong,Shenzhen,Shenzhen Aquatics,4
+CHN,Guangdong,Guangzhou,Yuexiu Swim Team,4
+CHN,Guangdong,Dongguan,Dongguan Dolphins,3
+CHN,Guangdong,Foshan,Foshan Waves,3
+CHN,Guangdong,Zhuhai,Zhuhai Marlins,3
+CHN,Guangdong,Shantou,Shantou Swim,2
+CHN,Guangdong,Zhongshan,Zhongshan Aquatics,2
+CHN,Guangdong,Jiangmen,Jiangmen Rivers,2
+CHN,Guangdong,Huizhou,Huizhou Swim Club,2
+CHN,Jiangsu,Nanjing,Jiangsu Swimming Team,5
+CHN,Jiangsu,Suzhou,Suzhou Aquatics,4
+CHN,Jiangsu,Wuxi,Wuxi Taihu Swim,4
+CHN,Jiangsu,Nanjing,Nanjing University,3
+CHN,Jiangsu,Changzhou,Changzhou Dragons,3
+CHN,Jiangsu,Nantong,Nantong Waves,3
+CHN,Jiangsu,Yangzhou,Yangzhou Swim,2
+CHN,Jiangsu,Xuzhou,Xuzhou Aquatics,2
+CHN,Jiangsu,Zhenjiang,Zhenjiang Blue,2
+CHN,Jiangsu,Lianyungang,Lianyungang Sea Lions,2
+CHN,Shandong,Jinan,Shandong Provincial,5
+CHN,Shandong,Qingdao,Qingdao Ocean,4
+CHN,Shandong,Yantai,Yantai Swim Club,4
+CHN,Shandong,Weifang,Weifang Waves,3
+CHN,Shandong,Jining,Jining Aquatics,3
+CHN,Shandong,Linyi,Linyi Dragons,3
+CHN,Shandong,Taian,Taian Swim,2
+CHN,Shandong,Zibo,Zibo Blue Water,2
+CHN,Shandong,Weihai,Weihai Sea Club,2
+CHN,Shandong,Heze,Heze Natation,2
+CHN,Hubei,Wuhan,Hubei Swim Team,5
+CHN,Hubei,Wuhan,Wuhan University,4
+CHN,Hubei,Yichang,Yichang Aquatics,4
+CHN,Hubei,Xiangyang,Xiangyang Waves,3
+CHN,Hubei,Jingzhou,Jingzhou Swim,3
+CHN,Hubei,Huangshi,Huangshi Dragons,3
+CHN,Hubei,Shiyan,Shiyan Blue,2
+CHN,Hubei,Xiaogan,Xiaogan Natation,2
+CHN,Hubei,Ezhou,Ezhou Swim Club,2
+CHN,Hubei,Jingmen,Jingmen Aquatics,2
+CHN,Sichuan,Chengdu,Sichuan Provincial,5
+CHN,Sichuan,Chengdu,Chengdu University,4
+CHN,Sichuan,Mianyang,Mianyang Aquatics,4
+CHN,Sichuan,Leshan,Leshan Waves,3
+CHN,Sichuan,Nanchong,Nanchong Swim,3
+CHN,Sichuan,Yibin,Yibin Dragons,3
+CHN,Sichuan,Luzhou,Luzhou Blue,2
+CHN,Sichuan,Deyang,Deyang Natation,2
+CHN,Sichuan,Meishan,Meishan Swim Club,2
+CHN,Sichuan,Guangyuan,Guangyuan Aquatics,2
+CHN,Liaoning,Shenyang,Liaoning Swim Team,5
+CHN,Liaoning,Dalian,Dalian Ocean,4
+CHN,Liaoning,Anshan,Anshan Aquatics,4
+CHN,Liaoning,Fushun,Fushun Waves,3
+CHN,Liaoning,Benxi,Benxi Swim,3
+CHN,Liaoning,Dandong,Dandong Dragons,3
+CHN,Liaoning,Jinzhou,Jinzhou Blue,2
+CHN,Liaoning,Yingkou,Yingkou Natation,2
+CHN,Liaoning,Liaoyang,Liaoyang Swim Club,2
+CHN,Liaoning,Panjin,Panjin Aquatics,2
+CHN,Fujian,Fuzhou,Fujian Provincial,5
+CHN,Fujian,Xiamen,Xiamen Aquatics,4
+CHN,Fujian,Quanzhou,Quanzhou Waves,4
+CHN,Fujian,Zhangzhou,Zhangzhou Swim,3
+CHN,Fujian,Putian,Putian Dragons,3
+CHN,Fujian,Ningde,Ningde Blue,3
+CHN,Fujian,Sanming,Sanming Natation,2
+CHN,Fujian,Nanping,Nanping Swim Club,2
+CHN,Fujian,Longyan,Longyan Aquatics,2
+CHN,Fujian,Xiamen,Amoy University,2
+CHN,Shaanxi,Xi'an,Shaanxi Swim Team,4
+CHN,Shaanxi,Xi'an,Chang'an University,4
+CHN,Shaanxi,Xianyang,Xianyang Aquatics,3
+CHN,Shaanxi,Baoji,Baoji Waves,3
+CHN,Shaanxi,Weinan,Weinan Swim,2
+CHN,Shaanxi,Yan'an,Yan'an Dragons,2
+CHN,Shaanxi,Yulin,Yulin Blue,2
+CHN,Shaanxi,Hanzhong,Hanzhong Natation,2
+CHN,Shaanxi,Ankang,Ankang Swim Club,2
+CHN,Shaanxi,Shangluo,Shangluo Aquatics,2
+CHN,Hunan,Changsha,Hunan Provincial,4
+CHN,Hunan,Changsha,Xiangjiang Aquatics,4
+CHN,Hunan,Zhuzhou,Zhuzhou Waves,3
+CHN,Hunan,Xiangtan,Xiangtan Swim,3
+CHN,Hunan,Hengyang,Hengyang Dragons,2
+CHN,Hunan,Shaoyang,Shaoyang Blue,2
+CHN,Hunan,Yueyang,Yueyang Natation,2
+CHN,Hunan,Changde,Changde Swim Club,2
+CHN,Hunan,Zhangjiajie,Zhangjiajie Aquatics,2
+CHN,Hunan,Yiyang,Yiyang Dolphins,2
+RUS,Moscow,Moscow,CSKA Moscow,5
+RUS,Moscow,Moscow,Dinamo Moscow,5
+RUS,Moscow,Moscow,Spartak Moscow,4
+RUS,Moscow,Moscow,Yunost Moskvy,4
+RUS,Moscow,Moscow,Olimpiyskiy Swim,4
+RUS,Moscow,Moscow,RGUFKSMiT Aquatics,3
+RUS,Moscow,Moscow,Torpedo Moscow,3
+RUS,Moscow,Moscow,Chertanovo Swim,3
+RUS,Moscow,Moscow,Krylatskoye Water,3
+RUS,Moscow,Moscow,Sambo-70 Aquatics,2
+RUS,Moscow,Moscow,Vityaz Swim Club,2
+RUS,Moscow,Moscow,Zelenograd Dolphins,2
+RUS,St. Petersburg,St. Petersburg,Energy Standard,5
+RUS,St. Petersburg,St. Petersburg,Zenit St. Petersburg,5
+RUS,St. Petersburg,St. Petersburg,Neva Stars,4
+RUS,St. Petersburg,St. Petersburg,SKA St. Petersburg,4
+RUS,St. Petersburg,St. Petersburg,Raduga Aquatics,3
+RUS,St. Petersburg,St. Petersburg,Ekran Swim Club,3
+RUS,St. Petersburg,St. Petersburg,Volna St. Petersburg,3
+RUS,St. Petersburg,St. Petersburg,Kolpino Waves,2
+RUS,St. Petersburg,St. Petersburg,Kronstadt Swim,2
+RUS,St. Petersburg,St. Petersburg,Peterhof Aquatics,2
+RUS,Tatarstan,Kazan,Sintez Kazan,5
+RUS,Tatarstan,Kazan,Kazan Aquatics Center,4
+RUS,Tatarstan,Kazan,Volga Region Academy,4
+RUS,Tatarstan,Naberezhnye Chelny,Chelny Swim Club,3
+RUS,Tatarstan,Nizhnekamsk,Nizhnekamsk Waves,3
+RUS,Tatarstan,Almetyevsk,Almetyevsk Neftyanik,3
+RUS,Tatarstan,Kazan,Zilant Swim,2
+RUS,Tatarstan,Zelenodolsk,Zelenodolsk Dolphins,2
+RUS,Tatarstan,Bugulma,Bugulma Aquatics,2
+RUS,Tatarstan,Elabuga,Elabuga Blue Water,2
+RUS,Volgograd Oblast,Volgograd,Volga Volgograd,5
+RUS,Volgograd Oblast,Volgograd,Spartak Volgograd,4
+RUS,Volgograd Oblast,Volgograd,Volgograd Academy,4
+RUS,Volgograd Oblast,Volzhsky,Volzhsky Aquatics,3
+RUS,Volgograd Oblast,Kamyshin,Kamyshin Swim,3
+RUS,Volgograd Oblast,Mikhaylovka,Mikhaylovka Waves,3
+RUS,Volgograd Oblast,Uryupinsk,Uryupinsk Dragons,2
+RUS,Volgograd Oblast,Frolovo,Frolovo Blue,2
+RUS,Volgograd Oblast,Volgograd,Olimpia Volgograd,2
+RUS,Volgograd Oblast,Volgograd,Zenit Volgograd,2
+RUS,Sverdlovsk,Yekaterinburg,Ural Swimming,5
+RUS,Sverdlovsk,Yekaterinburg,Dinamo Yekaterinburg,4
+RUS,Sverdlovsk,Nizhny Tagil,Sputnik Nizhny Tagil,4
+RUS,Sverdlovsk,Kamensk-Uralsky,Kamensk Aquatics,3
+RUS,Sverdlovsk,Pervouralsk,Pervouralsk Waves,3
+RUS,Sverdlovsk,Serov,Serov Swim Club,3
+RUS,Sverdlovsk,Novouralsk,Novouralsk Dolphins,2
+RUS,Sverdlovsk,Asbest,Asbest Aquatics,2
+RUS,Sverdlovsk,Polevskoy,Polevskoy Blue,2
+RUS,Sverdlovsk,Yekaterinburg,Uralets Swim,2
+RUS,Novosibirsk,Novosibirsk,Siberian Manta Rays,4
+RUS,Novosibirsk,Novosibirsk,Dinamo Novosibirsk,4
+RUS,Novosibirsk,Novosibirsk,Nika Swim Club,3
+RUS,Novosibirsk,Berdsk,Berdsk Aquatics,3
+RUS,Novosibirsk,Iskitim,Iskitim Waves,3
+RUS,Novosibirsk,Kuybyshev,Kuybyshev Swim,2
+RUS,Novosibirsk,Karasuk,Karasuk Dolphins,2
+RUS,Novosibirsk,Tatarsk,Tatarsk Aquatics,2
+RUS,Novosibirsk,Ob,Ob Blue Water,2
+RUS,Novosibirsk,Novosibirsk,Sibiryak Swim,2
+RUS,Rostov,Rostov-on-Don,Rostov Aquatics,4
+RUS,Rostov,Rostov-on-Don,Don Swim Club,4
+RUS,Rostov,Taganrog,Taganrog Waves,3
+RUS,Rostov,Shakhty,Shakhty Dolphins,3
+RUS,Rostov,Volgodonsk,Volgodonsk Swim,3
+RUS,Rostov,Novocherkassk,Novocherkassk Blue,2
+RUS,Rostov,Bataysk,Bataysk Aquatics,2
+RUS,Rostov,Novoshakhtinsk,Novoshakhtinsk Dragons,2
+RUS,Rostov,Kamensk-Shakhtinsky,Kamensk Swim,2
+RUS,Rostov,Rostov-on-Don,Rostselmash Aquatics,2
+RUS,Nizhny Novgorod,Nizhny Novgorod,Nizhny Novgorod Swim,4
+RUS,Nizhny Novgorod,Nizhny Novgorod,Torpedo NN,4
+RUS,Nizhny Novgorod,Dzerzhinsk,Dzerzhinsk Waves,3
+RUS,Nizhny Novgorod,Arzamas,Arzamas Aquatics,3
+RUS,Nizhny Novgorod,Sarov,Sarov Swim Club,3
+RUS,Nizhny Novgorod,Bor,Bor Dolphins,2
+RUS,Nizhny Novgorod,Kstovo,Kstovo Blue,2
+RUS,Nizhny Novgorod,Pavlovo,Pavlovo Dragons,2
+RUS,Nizhny Novgorod,Vyksa,Vyksa Aquatics,2
+RUS,Nizhny Novgorod,Nizhny Novgorod,Olimpiyets NN,2
+RUS,Krasnodar Krai,Krasnodar,Krasnodar Aquatics,5
+RUS,Krasnodar Krai,Sochi,Sochi Dolphins,4
+RUS,Krasnodar Krai,Novorossiysk,Black Sea Swim,4
+RUS,Krasnodar Krai,Armavir,Armavir Waves,3
+RUS,Krasnodar Krai,Yeysk,Yeysk Aquatics,3
+RUS,Krasnodar Krai,Kropotkin,Kropotkin Swim,3
+RUS,Krasnodar Krai,Slavyansk-na-Kubani,Slavyansk Blue,2
+RUS,Krasnodar Krai,Tuapse,Tuapse Dragons,2
+RUS,Krasnodar Krai,Gelendzhik,Gelendzhik Marlins,2
+RUS,Krasnodar Krai,Krasnodar,Kuban Swim Team,2
+RUS,Samara,Samara,Samara Aquatics,4
+RUS,Samara,Samara,CSK VVS Samara,4
+RUS,Samara,Tolyatti,Lada Tolyatti,4
+RUS,Samara,Syzran,Syzran Waves,3
+RUS,Samara,Novokuybyshevsk,Novokuybyshevsk Swim,3
+RUS,Samara,Chapaevsk,Chapaevsk Dolphins,3
+RUS,Samara,Zhigulevsk,Zhigulevsk Blue,2
+RUS,Samara,Otradny,Otradny Aquatics,2
+RUS,Samara,Kinel,Kinel Dragons,2
+RUS,Samara,Samara,Volga Samara,2
+RUS,Chelyabinsk,Chelyabinsk,Uralochka Swim,4
+RUS,Chelyabinsk,Magnitogorsk,Metallurg Magnitogorsk,4
+RUS,Chelyabinsk,Zlatoust,Zlatoust Waves,3
+RUS,Chelyabinsk,Miass,Miass Aquatics,3
+RUS,Chelyabinsk,Kopeysk,Kopeysk Swim Club,3
+RUS,Chelyabinsk,Ozyorsk,Ozyorsk Blue,2
+RUS,Chelyabinsk,Troitsk,Troitsk Dolphins,2
+RUS,Chelyabinsk,Snezhinsk,Snezhinsk Dragons,2
+RUS,Chelyabinsk,Satka,Satka Aquatics,2
+RUS,Chelyabinsk,Chelyabinsk,Traktor Swim,2
+RUS,Krasnoyarsk Krai,Krasnoyarsk,Yenisei Krasnoyarsk,4
+RUS,Krasnoyarsk Krai,Krasnoyarsk,Siberian Academy,4
+RUS,Krasnoyarsk Krai,Norilsk,Norilsk Polar Bears,3
+RUS,Krasnoyarsk Krai,Achinsk,Achinsk Waves,3
+RUS,Krasnoyarsk Krai,Kansk,Kansk Aquatics,3
+RUS,Krasnoyarsk Krai,Zheleznogorsk,Zheleznogorsk Blue,2
+RUS,Krasnoyarsk Krai,Minusinsk,Minusinsk Swim,2
+RUS,Krasnoyarsk Krai,Zelenogorsk,Zelenogorsk Dolphins,2
+RUS,Krasnoyarsk Krai,Lesosibirsk,Lesosibirsk Dragons,2
+RUS,Krasnoyarsk Krai,Krasnoyarsk,Krasnoyarsk Waves,2
+AUS,Queensland,Brisbane,St Peters Western,5
+AUS,Queensland,Brisbane,Rackley Swim Team,4
+AUS,Queensland,Brisbane,Brisbane Grammar,4
+AUS,Queensland,Brisbane,Chandler SC,4
+AUS,Queensland,Brisbane,Nudgee College,3
+AUS,Queensland,Brisbane,Commercial SC,3
+AUS,Queensland,Brisbane,Somerville House,3
+AUS,Queensland,Brisbane,Brisbane Jets,2
+AUS,Queensland,Brisbane,Acacia Bayside,2
+AUS,Queensland,Brisbane,Valley Aquatics,2
+AUS,Queensland,Gold Coast,Bond Swimming,5
+AUS,Queensland,Gold Coast,Griffith University,5
+AUS,Queensland,Gold Coast,TSS Aquatic,4
+AUS,Queensland,Gold Coast,Miami Swim Club,4
+AUS,Queensland,Gold Coast,Southport Olympic,3
+AUS,Queensland,Gold Coast,Somerset GC,3
+AUS,Queensland,Gold Coast,Surfers Paradise,2
+AUS,Queensland,Sunshine Coast,USC Spartans,4
+AUS,Queensland,Sunshine Coast,Pelican Waters,3
+AUS,Queensland,Sunshine Coast,Noosa Swim Club,2
+AUS,New South Wales,Sydney,Sydney University,5
+AUS,New South Wales,Sydney,SOPAC Swim Club,4
+AUS,New South Wales,Sydney,Knox Pymble,4
+AUS,New South Wales,Sydney,Carlile Swimming,4
+AUS,New South Wales,Sydney,Trinity Grammar,3
+AUS,New South Wales,Sydney,Macquarie University,3
+AUS,New South Wales,Sydney,City of Sydney,3
+AUS,New South Wales,Sydney,Ravenswood,3
+AUS,New South Wales,Sydney,Lane Cove,2
+AUS,New South Wales,Sydney,Ryde Carlile,2
+AUS,New South Wales,Sydney,Barker Aquatic,2
+AUS,New South Wales,Sydney,Willoughby,2
+AUS,New South Wales,Newcastle,Hunter Swim Club,3
+AUS,New South Wales,Newcastle,Novocastrian,3
+AUS,New South Wales,Newcastle,Nuswim,2
+AUS,New South Wales,Wollongong,Wollongong Swim,2
+AUS,Victoria,Melbourne,Melbourne Vicentre,5
+AUS,Victoria,Melbourne,Nunawading,5
+AUS,Victoria,Melbourne,Bayside Aquatics,4
+AUS,Victoria,Melbourne,MLC Aquatic,4
+AUS,Victoria,Melbourne,TigerSharks,3
+AUS,Victoria,Melbourne,Firbank Aquastars,3
+AUS,Victoria,Melbourne,Surrey Park,3
+AUS,Victoria,Melbourne,CA Tritons,3
+AUS,Victoria,Melbourne,Essendon District,2
+AUS,Victoria,Melbourne,DVE Aquatic,2
+AUS,Victoria,Melbourne,Ivanhoe Neons,2
+AUS,Victoria,Melbourne,Ringwood,2
+AUS,Victoria,Geelong,Geelong Swimming,3
+AUS,Victoria,Geelong,Corio Gators,2
+AUS,Western Australia,Perth,UWA West Coast,5
+AUS,Western Australia,Perth,St Hildas,4
+AUS,Western Australia,Perth,Westside Christchurch,4
+AUS,Western Australia,Perth,Perth City,3
+AUS,Western Australia,Perth,Southside Penrhos,3
+AUS,Western Australia,Perth,Rockingham,3
+AUS,Western Australia,Perth,Breakers WA,2
+AUS,Western Australia,Perth,Arena Swim Club,2
+AUS,Western Australia,Perth,Guilford Kalamunda,2
+AUS,Western Australia,Perth,Victoria Park,2
+AUS,South Australia,Adelaide,Marion Swimming,5
+AUS,South Australia,Adelaide,Norwood,4
+AUS,South Australia,Adelaide,Playford Aquatic,3
+AUS,South Australia,Adelaide,Starplex,3
+AUS,South Australia,Adelaide,Henley & Grange,3
+AUS,South Australia,Adelaide,Clovercrest,2
+AUS,South Australia,Adelaide,Tea Tree Gully,2
+AUS,South Australia,Adelaide,Burnside,2
+AUS,South Australia,Adelaide,Kent Town,2
+AUS,South Australia,Adelaide,Southern Performance,2
+AUS,ACT,Canberra,Ginninderra,4
+AUS,ACT,Canberra,Tuggeranong Vikings,3
+AUS,ACT,Canberra,Canberra ASC,3
+AUS,ACT,Canberra,Cruiz Swim Club,2
+AUS,ACT,Canberra,Telopea,2
+AUS,Tasmania,Hobart,Hobart Aquatic,3
+AUS,Tasmania,Hobart,South Esk,3
+AUS,Tasmania,Launceston,Launceston Aquatic,2
+AUS,Tasmania,Devonport,Devonport Swim,2
+AUS,Northern Territory,Darwin,Darwin Swimming,2
+GBR,East Midlands,Loughborough,Loughborough University,5
+GBR,East Midlands,Loughborough,Loughborough Town,3
+GBR,East Midlands,Nottingham,Nova Centurion,4
+GBR,East Midlands,Nottingham,Nottingham Leander,3
+GBR,East Midlands,Derby,City of Derby,4
+GBR,East Midlands,Derby,Derby Excel,2
+GBR,East Midlands,Leicester,City of Leicester,3
+GBR,East Midlands,Lincoln,Lincoln Vulcans,2
+GBR,South West,Bath,Bath National Centre,5
+GBR,South West,Bath,Team Bath AS,4
+GBR,South West,Plymouth,Plymouth Leander,5
+GBR,South West,Plymouth,Mount Kelly,4
+GBR,South West,Somerset,Millfield,4
+GBR,South West,Bristol,City of Bristol,3
+GBR,South West,Bournemouth,Swim Bournemouth,3
+GBR,South West,Poole,Poole Swimming Club,2
+GBR,North West,Manchester,City of Manchester,5
+GBR,North West,Manchester,Stockport Metro,4
+GBR,North West,Liverpool,City of Liverpool,4
+GBR,North West,Liverpool,Wirral Metro,3
+GBR,North West,Preston,Preston Swimming,3
+GBR,North West,Southport,Southport Swim,3
+GBR,North West,Bolton,Bolton Metro,2
+GBR,North West,Wigan,Wigan Best,2
+GBR,Yorkshire,Sheffield,City of Sheffield,5
+GBR,Yorkshire,Leeds,City of Leeds,5
+GBR,Yorkshire,Leeds,Borough of Kirklees,3
+GBR,Yorkshire,York,York City Baths,3
+GBR,Yorkshire,Doncaster,Doncaster Dartes,3
+GBR,Yorkshire,Hull,Kingston Upon Hull,2
+GBR,Yorkshire,Rotherham,Rotherham Metro,2
+GBR,Yorkshire,Harrogate,Harrogate District,2
+GBR,London,London,London Aquatics,4
+GBR,London,London,Chelsea & Westminster,4
+GBR,London,London,Ealing Swimming,4
+GBR,London,London,Camden Swiss Cottage,3
+GBR,London,London,Bromley Swimming,3
+GBR,London,London,Hillingdon,3
+GBR,London,London,Anaconda,2
+GBR,London,London,Dulwich Dolphins,2
+GBR,South East,Wycombe,Wycombe District,4
+GBR,South East,Guildford,Guildford City,4
+GBR,South East,Portsmouth,Portsmouth Northsea,4
+GBR,South East,Winchester,Winchester City,3
+GBR,South East,Oxford,City of Oxford,3
+GBR,South East,Reading,Reading Swimming,3
+GBR,South East,Milton Keynes,Milton Keynes,2
+GBR,South East,Bracknell,Bracknell & Wokingham,2
+GBR,West Midlands,Birmingham,City of Birmingham,4
+GBR,West Midlands,Coventry,City of Coventry,4
+GBR,West Midlands,Wolverhampton,Royal Wolverhampton,3
+GBR,West Midlands,Worcester,Worcester Swimming,3
+GBR,West Midlands,Leamington,Leamington Spa,2
+GBR,West Midlands,Stratford,Stratford Sharks,2
+GBR,East,Cambridge,City of Cambridge,3
+GBR,East,Peterborough,City of Peterborough,3
+GBR,East,Norwich,City of Norwich,3
+GBR,East,Ipswich,Teamipswich,2
+GBR,East,Hatfield,Hatfield Swimming,3
+GBR,East,St Albans,St Albans City,2
+GBR,Scotland,Stirling,University of Stirling,5
+GBR,Scotland,Edinburgh,Edinburgh University,5
+GBR,Scotland,Edinburgh,Warrender Baths,4
+GBR,Scotland,Glasgow,City of Glasgow,4
+GBR,Scotland,Aberdeen,Aberdeen Performance,3
+GBR,Scotland,Dundee,Dundee City Aquatics,3
+GBR,Scotland,Perth,Perth City,2
+GBR,Scotland,Inverness,Inverness Swim,2
+GBR,Wales,Swansea,Swansea University,5
+GBR,Wales,Swansea,City of Swansea,4
+GBR,Wales,Cardiff,City of Cardiff,4
+GBR,Wales,Newport,City of Newport,3
+GBR,Wales,Carmarthen,Carmarthen,2
+GBR,Wales,Wrexham,Wrexham Swimming,2
+GBR,Northern Ireland,Belfast,Bangor Swimming,3
+GBR,Northern Ireland,Belfast,Lisburn City,3
+GBR,Northern Ireland,Belfast,Ards Swimming,2
+GBR,Northern Ireland,Derry,City of Derry,2
+FRA,Provence-Alpes-Côte d'Azur,Marseille,Cercle des Nageurs de Marseille,5
+FRA,Provence-Alpes-Côte d'Azur,Nice,Olympic Nice Natation,5
+FRA,Provence-Alpes-Côte d'Azur,Antibes,Cercle des Nageurs d'Antibes,4
+FRA,Provence-Alpes-Côte d'Azur,Marseille,Pays d'Aix Natation,3
+FRA,Provence-Alpes-Côte d'Azur,Toulon,Toulon Var Natation,3
+FRA,Provence-Alpes-Côte d'Azur,Cannes,Cercle des Nageurs de Cannes,3
+FRA,Provence-Alpes-Côte d'Azur,Avignon,Avignon Le Pontet,2
+FRA,Provence-Alpes-Côte d'Azur,Aix-en-Provence,Aix-en-Provence Natation,2
+FRA,Provence-Alpes-Côte d'Azur,Menton,Menton Natation,2
+FRA,Provence-Alpes-Côte d'Azur,Hyères,Hyères Natation,2
+FRA,Occitanie,Toulouse,Dauphins du TOEC,5
+FRA,Occitanie,Montpellier,Montpellier Métropole Natation,4
+FRA,Occitanie,Toulouse,ASPTT Toulouse,3
+FRA,Occitanie,Nîmes,Nîmes Nautic Club,3
+FRA,Occitanie,Perpignan,Canet 66 Natation,3
+FRA,Occitanie,Narbonne,Narbonne Méditerranée,2
+FRA,Occitanie,Béziers,Béziers Natation,2
+FRA,Occitanie,Montauban,Montauban Natation,2
+FRA,Occitanie,Albi,Albi Sports Natation,2
+FRA,Occitanie,Tarbes,Tarbes Nautic,2
+FRA,Île-de-France,Paris,INSEP,5
+FRA,Île-de-France,Paris,Racing Club de France,4
+FRA,Île-de-France,Paris,Stade Français,4
+FRA,Île-de-France,Melun,Cercle des Nageurs de Melun,4
+FRA,Île-de-France,Clichy,CS Clichy 92,4
+FRA,Île-de-France,Paris,Neptune Club de France,3
+FRA,Île-de-France,Sarcelles,AAS Sarcelles Natation 95,3
+FRA,Île-de-France,Massy,ES Massy Natation,3
+FRA,Île-de-France,Créteil,US Créteil Natation,3
+FRA,Île-de-France,Boulogne-Billancourt,AC Boulogne-Billancourt,2
+FRA,Île-de-France,Versailles,SN Versailles,2
+FRA,Île-de-France,Saint-Germain,CNO Saint-Germain,2
+FRA,Île-de-France,Nanterre,ES Nanterre,2
+FRA,Île-de-France,Montreuil,CA Montreuil,2
+FRA,Auvergne-Rhône-Alpes,Lyon,Lyon Natation Métropole,4
+FRA,Auvergne-Rhône-Alpes,Grenoble,Grenoble Alp'38,4
+FRA,Auvergne-Rhône-Alpes,Annecy,Annecy Natation,3
+FRA,Auvergne-Rhône-Alpes,Saint-Étienne,Saint-Étienne Natation,3
+FRA,Auvergne-Rhône-Alpes,Chambéry,Chambéry Cyclones,3
+FRA,Auvergne-Rhône-Alpes,Clermont-Ferrand,Stade Clermontois,3
+FRA,Auvergne-Rhône-Alpes,Valence,Enfants du Rhône Valence,2
+FRA,Auvergne-Rhône-Alpes,Vichy,Vichy Val d'Allier,2
+FRA,Auvergne-Rhône-Alpes,Bourg-en-Bresse,Bourg-en-Bresse Natation,2
+FRA,Auvergne-Rhône-Alpes,Roanne,Roanne Natation,2
+FRA,Hauts-de-France,Amiens,Amiens Métropole Natation,5
+FRA,Hauts-de-France,Lille,Lille Métropole Natation,4
+FRA,Hauts-de-France,Dunkerque,Dunkerque Natation,3
+FRA,Hauts-de-France,Roubaix,Roubaix Natation,3
+FRA,Hauts-de-France,Tourcoing,Tourcoing Enfants,2
+FRA,Hauts-de-France,Calais,Calais Natation,2
+FRA,Hauts-de-France,Arras,RCA Natation,2
+FRA,Hauts-de-France,Compiègne,Compiègne Natation,2
+FRA,Nouvelle-Aquitaine,Bordeaux,Girondins de Bordeaux,4
+FRA,Nouvelle-Aquitaine,Limoges,ASPTT Limoges,3
+FRA,Nouvelle-Aquitaine,Poitiers,Stade Poitevin,3
+FRA,Nouvelle-Aquitaine,Pau,Pau Natation,3
+FRA,Nouvelle-Aquitaine,La Rochelle,La Rochelle Canards,2
+FRA,Nouvelle-Aquitaine,Bayonne,Aviron Bayonnais Natation,2
+FRA,Nouvelle-Aquitaine,Brive,Brive Corrèze,2
+FRA,Nouvelle-Aquitaine,Niort,Niort Natation,2
+FRA,Grand Est,Strasbourg,Team Strasbourg,4
+FRA,Grand Est,Mulhouse,Mulhouse Olympic Natation,4
+FRA,Grand Est,Metz,Metz Métropole Natation,3
+FRA,Grand Est,Nancy,Nancy ASPTT,3
+FRA,Grand Est,Reims,Stade de Reims Natation,3
+FRA,Grand Est,Troyes,Troyes Omnisports,2
+FRA,Grand Est,Charleville-Mézières,Charleville-Mézières Natation,2
+FRA,Grand Est,Colmar,Colmar Natation,2
+FRA,Bretagne,Brest,Brest Bretagne Natation,4
+FRA,Bretagne,Rennes,Cercle Paul Bert Rennes,4
+FRA,Bretagne,Saint-Brieuc,Saint-Brieuc Natation,3
+FRA,Bretagne,Lorient,Lorient Natation,2
+FRA,Pays de la Loire,Nantes,Nantes Natation,4
+FRA,Pays de la Loire,Angers,Angers Natation,3
+FRA,Pays de la Loire,Le Mans,Le Mans Club,2
+FRA,Normandie,Rouen,Vikings de Rouen,3
+FRA,Normandie,Caen,Entente Nautique Caennaise,3
+FRA,Normandie,Le Havre,Club Nautique Havrais,2
+GER,Berlin,Berlin,Wasserfreunde Spandau 04,5
+GER,Berlin,Berlin,SG Neukölln Berlin,5
+GER,Berlin,Berlin,Berliner TSC,4
+GER,Berlin,Berlin,Wasserfreunde Spandau,4
+GER,Berlin,Berlin,SSC Berlin-Reinickendorf,3
+GER,Berlin,Berlin,BSV Medizin Marzahn,3
+GER,Berlin,Berlin,Zehlendorfer TSV,3
+GER,Berlin,Berlin,SG Schöneberg Berlin,2
+GER,Berlin,Berlin,Aqua Berlin,2
+GER,Berlin,Berlin,KSV Neptun Berlin,2
+GER,Nordrhein-Westfalen,Essen,SG Essen,5
+GER,Nordrhein-Westfalen,Wuppertal,SG Bayer,5
+GER,Nordrhein-Westfalen,Dortmund,SG Dortmund,4
+GER,Nordrhein-Westfalen,Köln,TPSK 1925,4
+GER,Nordrhein-Westfalen,Gladbeck,VfL Gladbeck,4
+GER,Nordrhein-Westfalen,Gelsenkirchen,SG Gelsenkirchen,3
+GER,Nordrhein-Westfalen,Bochum,Blau-Weiß Bochum,3
+GER,Nordrhein-Westfalen,Neuss,Neusser SV,3
+GER,Nordrhein-Westfalen,Münster,SGS Münster,3
+GER,Nordrhein-Westfalen,Bonn,SSF Bonn,3
+GER,Nordrhein-Westfalen,Aachen,Aachener SV,2
+GER,Nordrhein-Westfalen,Düsseldorf,Düsseldorfer SC,2
+GER,Nordrhein-Westfalen,Duisburg,Duisburger ST,2
+GER,Nordrhein-Westfalen,Bielefeld,Wasserfreunde Bielefeld,2
+GER,Nordrhein-Westfalen,Paderborn,Paderborner SV,2
+GER,Bayern,München,SG Stadtwerke München,5
+GER,Bayern,Würzburg,SV Würzburg 05,5
+GER,Bayern,Nürnberg,1. FCN Schwimmen,4
+GER,Bayern,Erlangen,TB 1888 Erlangen,4
+GER,Bayern,Regensburg,SC Regensburg,3
+GER,Bayern,Augsburg,SV Augsburg,3
+GER,Bayern,Ingolstadt,SC Delphin Ingolstadt,3
+GER,Bayern,München,SC Wasserfreunde München,3
+GER,Bayern,Bayreuth,SV Bayreuth,2
+GER,Bayern,Bamberg,WSV Bamberg,2
+GER,Bayern,München,Münchner SC,2
+GER,Bayern,Landshut,SC 53 Landshut,2
+GER,Bayern,Kempten,TV Kempten,2
+GER,Bayern,Passau,TV Passau,2
+GER,Bayern,Rosenheim,TSV Rosenheim,2
+GER,Baden-Württemberg,Heidelberg,SV Nikar Heidelberg,5
+GER,Baden-Württemberg,Neckarsulm,Neckarsulmer Sport-Union,5
+GER,Baden-Württemberg,Sindelfingen,VfL Sindelfingen,4
+GER,Baden-Württemberg,Karlsruhe,SGR Karlsruhe,4
+GER,Baden-Württemberg,Freiburg,SSV Freiburg,3
+GER,Baden-Württemberg,Stuttgart,SV Cannstatt,3
+GER,Baden-Württemberg,Mannheim,SV Mannheim,3
+GER,Baden-Württemberg,Ulm,SSV Ulm 1846,3
+GER,Baden-Württemberg,Reutlingen,SSG Reutlingen/Tübingen,2
+GER,Baden-Württemberg,Konstanz,Sparta Konstanz,2
+GER,Baden-Württemberg,Heilbronn,SV Heilbronn,2
+GER,Baden-Württemberg,Pforzheim,SSV Pforzheim,2
+GER,Hessen,Frankfurt,SG Frankfurt,5
+GER,Hessen,Wiesbaden,SC Wiesbaden 1911,4
+GER,Hessen,Darmstadt,DSW 1912 Darmstadt,4
+GER,Hessen,Kassel,Kasseler SV,3
+GER,Hessen,Baunatal,KSV Baunatal,3
+GER,Hessen,Offenbach,EOSC Offenbach,2
+GER,Hessen,Marburg,VfL Marburg,2
+GER,Hessen,Gießen,Gießener SV,2
+GER,Sachsen,Magdeburg,SC Magdeburg,5
+GER,Sachsen,Leipzig,SSG Leipzig,4
+GER,Sachsen,Dresden,Dresdner SC,4
+GER,Sachsen,Chemnitz,SC Chemnitz 1892,4
+GER,Sachsen,Halle,SV Halle,3
+GER,Sachsen,Zwickau,SV Zwickau,3
+GER,Sachsen,Plauen,SV Plauen,2
+GER,Sachsen,Bautzen,MSV Bautzen,2
+GER,Hamburg,Hamburg,SGS Hamburg,4
+GER,Hamburg,Hamburg,AMTV-FTV Hamburg,3
+GER,Hamburg,Hamburg,Hamburger SC,3
+GER,Hamburg,Hamburg,AWV 09 Hamburg,2
+GER,Hamburg,Hamburg,Bille Hamburg,2
+GER,Niedersachsen,Hannover,W98 Hannover,4
+GER,Niedersachsen,Osnabrück,VfL Osnabrück,3
+GER,Niedersachsen,Braunschweig,SSG Braunschweig,3
+GER,Niedersachsen,Göttingen,TWG 1861 Göttingen,2
+GER,Niedersachsen,Oldenburg,Oldenburger SV,2
+GER,Bremen,Bremen,Bremischer SV,3
+GER,Saarland,Saarbrücken,SSG Saar Max Ritter,4
+JPN,Tokyo,Tokyo,Tokyo Frog Kings,5
+JPN,Tokyo,Tokyo,Nippon Sport Science Univ,5
+JPN,Tokyo,Tokyo,Itoman Swim School Tokyo,5
+JPN,Tokyo,Tokyo,Waseda University,4
+JPN,Tokyo,Tokyo,Meiji University,4
+JPN,Tokyo,Tokyo,Central Sports Tokyo,4
+JPN,Tokyo,Tokyo,Konami Sports Club Tokyo,4
+JPN,Tokyo,Tokyo,Hosei University,3
+JPN,Tokyo,Tokyo,Tokyo SC,3
+JPN,Tokyo,Tokyo,Nihon University,3
+JPN,Tokyo,Tokyo,Renaissance Tokyo,3
+JPN,Tokyo,Tokyo,JSS Tokyo,2
+JPN,Tokyo,Tokyo,Mitsubishi Yowa,2
+JPN,Tokyo,Tokyo,Kokushikan University,2
+JPN,Tokyo,Tokyo,Mizuno Swim Team,2
+JPN,Kanagawa,Yokohama,Central Sports Yokohama,4
+JPN,Kanagawa,Yokohama,Kanagawa University,4
+JPN,Kanagawa,Kawasaki,NEC Green Swimming,4
+JPN,Kanagawa,Fujisawa,SFC Fujisawa,3
+JPN,Kanagawa,Yokohama,Itoman Yokohama,3
+JPN,Kanagawa,Sagamihara,Sagamihara SC,3
+JPN,Kanagawa,Yokosuka,Yokosuka Swim,2
+JPN,Kanagawa,Hiratsuka,Hiratsuka Aquatics,2
+JPN,Kanagawa,Kamakura,Kamakura SC,2
+JPN,Kanagawa,Yokohama,Konami Yokohama,2
+JPN,Osaka,Osaka,Itoman Swim School Osaka,5
+JPN,Osaka,Osaka,Kindai University,5
+JPN,Osaka,Osaka,Kansai University,4
+JPN,Osaka,Osaka,Central Sports Osaka,4
+JPN,Osaka,Hirakata,Hirakata SS,3
+JPN,Osaka,Osaka,Konami Sports Osaka,3
+JPN,Osaka,Sakai,Sakai SC,3
+JPN,Osaka,Toyonaka,Toyonaka Aquatics,2
+JPN,Osaka,Suita,Suita Swim Club,2
+JPN,Osaka,Ibaraki,Ibaraki SC,2
+JPN,Aichi,Nagoya,Chukyo University,5
+JPN,Aichi,Nagoya,Toyota Scorpions,4
+JPN,Aichi,Nagoya,Nagoya SC,4
+JPN,Aichi,Toyohashi,Toyohashi SS,3
+JPN,Aichi,Okazaki,Okazaki SC,3
+JPN,Aichi,Ichinomiya,Ichinomiya Swim,3
+JPN,Aichi,Toyota,Toyota SS,2
+JPN,Aichi,Nagoya,JSS Nagoya,2
+JPN,Aichi,Kasugai,Kasugai Aquatics,2
+JPN,Aichi,Anjo,Anjo SC,2
+JPN,Saitama,Saitama,Saitama Sakae,4
+JPN,Saitama,Kawaguchi,Kawaguchi SC,3
+JPN,Saitama,Tokorozawa,Tokorozawa Swim,3
+JPN,Saitama,Kawagoe,Kawagoe Aquatics,2
+JPN,Saitama,Koshigaya,Koshigaya SS,2
+JPN,Chiba,Chiba,Central Sports Chiba,4
+JPN,Chiba,Funabashi,Funabashi SC,3
+JPN,Chiba,Kashiwa,Kashiwa Swim Club,3
+JPN,Chiba,Matsudo,Matsudo Aquatics,2
+JPN,Chiba,Ichikawa,Ichikawa SS,2
+JPN,Hyogo,Kobe,Kobe SC,4
+JPN,Hyogo,Nishinomiya,Nishinomiya SS,3
+JPN,Hyogo,Amagasaki,Amagasaki Aquatics,3
+JPN,Hyogo,Himeji,Himeji Swim Club,2
+JPN,Hyogo,Akashi,Akashi SC,2
+JPN,Hokkaido,Sapporo,Sapporo SS,4
+JPN,Hokkaido,Sapporo,Hokkaido University,3
+JPN,Hokkaido,Asahikawa,Asahikawa SC,3
+JPN,Hokkaido,Hakodate,Hakodate Swim,2
+JPN,Hokkaido,Kushiro,Kushiro Aquatics,2
+JPN,Fukuoka,Fukuoka,Fukuoka University,4
+JPN,Fukuoka,Fukuoka,Itoman Fukuoka,3
+JPN,Fukuoka,Kitakyushu,Kitakyushu SS,3
+JPN,Fukuoka,Kurume,Kurume Aquatics,2
+JPN,Fukuoka,Fukuoka,Konami Fukuoka,2
+JPN,Kyoto,Kyoto,Doshisha University,4
+JPN,Kyoto,Kyoto,Kyoto SC,3
+JPN,Kyoto,Kyoto,Ritsumeikan University,3
+JPN,Kyoto,Uji,Uji Swim Club,2
+JPN,Kyoto,Kyoto,JSS Kyoto,2
+JPN,Niigata,Niigata,Niigata University,3
+JPN,Niigata,Nagaoka,Nagaoka SC,3
+JPN,Hiroshima,Hiroshima,Hiroshima SC,3
+JPN,Miyagi,Sendai,Sendai Swim Club,3
+JPN,Shizuoka,Hamamatsu,Hamamatsu SC,3
+CAN,Ontario,Toronto,HPC Ontario,5
+CAN,Ontario,Toronto,Toronto Swim Club,4
+CAN,Ontario,Toronto,University of Toronto,4
+CAN,Ontario,Markham,Markham Aquatic Club,4
+CAN,Ontario,Etobicoke,Etobicoke Swimming,4
+CAN,Ontario,London,London Aquatic Club,3
+CAN,Ontario,Ottawa,Greater Ottawa Kingfish,3
+CAN,Ontario,Mississauga,Mississauga Aquatic,3
+CAN,Ontario,Guelph,Guelph Marlin,3
+CAN,Ontario,Kitchener,Region of Waterloo,3
+CAN,Ontario,Windsor,Windsor Aquatic,2
+CAN,Ontario,Hamilton,Hamilton Aquatic,2
+CAN,Ontario,Oakville,Oakville Aquatic,2
+CAN,Ontario,Nepean,Nepean Kanata Barracudas,2
+CAN,Ontario,Sudbury,Sudbury Laurentian,2
+CAN,Ontario,Thunder Bay,Thunder Bay Thunderbolts,2
+CAN,Ontario,Barrie,Barrie Trojan,2
+CAN,Ontario,Brantford,Brantford Aquatic,2
+CAN,Ontario,Kingston,Kingston Blue Marlins,2
+CAN,Ontario,Whitby,Whitby Dolphins,2
+CAN,British Columbia,Vancouver,HPC Vancouver,5
+CAN,British Columbia,Vancouver,UBC Thunderbirds,5
+CAN,British Columbia,Victoria,Victoria Pacific,4
+CAN,British Columbia,Richmond,Richmond Rapids,4
+CAN,British Columbia,Kelowna,Kelowna AquaJets,3
+CAN,British Columbia,Kamloops,Kamloops Classic,3
+CAN,British Columbia,Surrey,Surrey Knights,3
+CAN,British Columbia,Coquitlam,Simon Fraser Aquatics,3
+CAN,British Columbia,Burnaby,Burnaby Barracudas,2
+CAN,British Columbia,Nanaimo,Nanaimo Riptides,2
+CAN,British Columbia,Langley,Langley Olympians,2
+CAN,British Columbia,Vernon,Vernon Kokanees,2
+CAN,British Columbia,Chilliwack,Chilliwack Spartans,2
+CAN,British Columbia,Penticton,Penticton KISU,2
+CAN,British Columbia,Prince George,Prince George Pisces,2
+CAN,Quebec,Montreal,Pointe-Claire Swim Club,5
+CAN,Quebec,Montreal,CAMO Natation,4
+CAN,Quebec,Montreal,McGill University,4
+CAN,Quebec,Quebec City,Rouge et Or,4
+CAN,Quebec,Laval,Club de Natation Laval,3
+CAN,Quebec,Gatineau,Natation Gatineau,3
+CAN,Quebec,Sherbrooke,Sherbrooke Vert et Or,3
+CAN,Quebec,Trois-Rivières,Mégophias,2
+CAN,Quebec,Saguenay,CN Saguenay,2
+CAN,Quebec,Drummondville,Requins de Drummondville,2
+CAN,Quebec,Brossard,Brossard Aquatics,2
+CAN,Quebec,Levis,Levis Natation,2
+CAN,Quebec,Saint-Jérôme,Neptune Natation,2
+CAN,Quebec,Granby,Granby Aquatics,2
+CAN,Quebec,Boucherville,Boucherville Natation,2
+CAN,Alberta,Calgary,Calgary Dinos,4
+CAN,Alberta,Calgary,Cascade Swim Club,4
+CAN,Alberta,Edmonton,Edmonton Keyano,4
+CAN,Alberta,Calgary,UofC Swim Club,3
+CAN,Alberta,Edmonton,Olympian Swim Club,3
+CAN,Alberta,Lethbridge,Lethbridge Amateur,2
+CAN,Alberta,Red Deer,Red Deer Catalina,2
+CAN,Manitoba,Winnipeg,Manta Swim Club,3
+CAN,Nova Scotia,Halifax,Halifax Trojan,3
+CAN,Saskatchewan,Saskatoon,Saskatoon Goldfins,2
+HUN,Budapest,Budapest,Iron Swim Budapest,5
+HUN,Budapest,Budapest,BVSC-Zugló,5
+HUN,Budapest,Budapest,Kőbánya SC,5
+HUN,Budapest,Budapest,Ferencvárosi TC,4
+HUN,Budapest,Budapest,Újpesti TE,4
+HUN,Budapest,Budapest,MTK Budapest,4
+HUN,Budapest,Budapest,Vasas SC,4
+HUN,Budapest,Budapest,A Jövő SC,3
+HUN,Budapest,Budapest,Budafóka XXII. SE,3
+HUN,Budapest,Budapest,Római SE,3
+HUN,Budapest,Budapest,Darnyi Tamás SC,3
+HUN,Budapest,Budapest,BHSE,3
+HUN,Budapest,Budapest,Ybl Water Polo,2
+HUN,Budapest,Budapest,Egri Úszó Klub Bp,2
+HUN,Budapest,Budapest,Hajós Alfréd SE,2
+HUN,Budapest,Budapest,Lőrincz 2000 SE,2
+HUN,Budapest,Budapest,Pénzügyőr SE,2
+HUN,Budapest,Budapest,Rákosmente KSK,2
+HUN,Budapest,Budapest,Siklós SE,2
+HUN,Budapest,Budapest,Városgazda UA,2
+HUN,Győr-Moson-Sopron,Győr,Győri Úszó SE,5
+HUN,Győr-Moson-Sopron,Sopron,Soproni ÚBK SE,3
+HUN,Győr-Moson-Sopron,Mosonmagyaróvár,Mosonmagyaróvári VSE,2
+HUN,Csongrád-Csanád,Szeged,Szegedi Úszó Egylet,4
+HUN,Csongrád-Csanád,Hódmezővásárhely,HÓD Úszó SE,4
+HUN,Csongrád-Csanád,Szentes,Szentesi Városi,2
+HUN,Hajdú-Bihar,Debrecen,Debreceni Sportcentrum,4
+HUN,Hajdú-Bihar,Hajdúszoboszló,Árpád SE,2
+HUN,Baranya,Pécs,Pécsi Sport Nonprofit,4
+HUN,Baranya,Pécs,Pécsi Vörös Meteor,2
+HUN,Borsod-Abaúj-Zemplén,Miskolc,Miskolci VSI,3
+HUN,Borsod-Abaúj-Zemplén,Tiszaújváros,Tiszaújvárosi VSE,2
+HUN,Heves,Eger,Egri Úszó Klub,4
+HUN,Heves,Hatvan,Hatvani Úszó Klub,2
+HUN,Veszprém,Veszprém,Veszprémi Egyetemi ÚK,3
+HUN,Veszprém,Balatonfűzfő,Balaton ÚK Veszprém,3
+HUN,Fejér,Székesfehérvár,Hullám 91 ÚE,3
+HUN,Fejér,Dunaújváros,Dunaferr SE,3
+HUN,Bács-Kiskun,Kecskemét,Bácsvíz KVSC,3
+HUN,Bács-Kiskun,Baja,Bajai Spartacus SC,3
+HUN,Somogy,Kaposvár,Kaposvári 1. MCM,3
+HUN,Somogy,Siófok,Siófoki Úszó SE,2
+HUN,Jász-Nagykun-Szolnok,Szolnok,Szolnoki Vizilabda SC,3
+HUN,Békés,Békéscsaba,Békéscsaba Előre ÚK,3
+HUN,Zala,Zalaegerszeg,Zalaco ZÚK,3
+HUN,Zala,Nagykanizsa,Délzalai Vízmű SE,2
+HUN,Komárom-Esztergom,Tatabánya,Tatabányai VSE,3
+HUN,Komárom-Esztergom,Esztergom,Esztergomi ÚK,2
+HUN,Pest,Érd,Érdi Úszó Sport Kft,3
+HUN,Pest,Gödöllő,Gödöllői EAC,2
+HUN,Pest,Cegléd,Ceglédi VSE,2
+HUN,Pest,Vác,Váci Vízmű SE,2
+HUN,Tolna,Szekszárd,Szekszárdi Vízmű SE,2
+HUN,Nógrád,Salgótarján,Salgótarjáni ÚK,2
+HUN,Vas,Szombathely,Szombathelyi VSC,3
+HUN,Szabolcs-Szatmár-Bereg,Nyíregyháza,Nyíregyházi Sportcentrum,3
+NED,Noord-Brabant,Eindhoven,PSV Eindhoven,5
+NED,Noord-Brabant,Breda,SBC2000,3
+NED,Noord-Brabant,Tilburg,TRB-RES,3
+NED,Noord-Brabant,'s-Hertogenbosch,AquAmigos,2
+NED,Noord-Brabant,Oss,Arethusa,2
+NED,Noord-Brabant,Roosendaal,Hieronymus,2
+NED,Noord-Brabant,Oosterhout,De Warande,2
+NED,Noord-Brabant,Veldhoven,Njord,2
+NED,Noord-Brabant,Veghel,Nautilus,2
+NED,Noord-Brabant,Boxtel,SWNZ,2
+NED,Noord-Holland,Amsterdam,HPC Amsterdam,5
+NED,Noord-Holland,Amsterdam,De Dolfijn,5
+NED,Noord-Holland,Haarlem,ZV Haerlem,3
+NED,Noord-Holland,Hoofddorp,ZPCH,3
+NED,Noord-Holland,Alkmaar,Daw,3
+NED,Noord-Holland,Hilversum,De Otters,2
+NED,Noord-Holland,Zaandam,ZV De Zaan,2
+NED,Noord-Holland,Purmerend,WZ&PC Purmerend,2
+NED,Noord-Holland,Hoorn,Zwemclub Hoorn,2
+NED,Noord-Holland,Heemskerk,OEZA,2
+NED,Zuid-Holland,The Hague,HPC Den Haag,5
+NED,Zuid-Holland,Rotterdam,Rotterdam Swimming,4
+NED,Zuid-Holland,The Hague,Blue Marlins,4
+NED,Zuid-Holland,Dordrecht,MNC Dordrecht,3
+NED,Zuid-Holland,Leiden,ZVL-1886,3
+NED,Zuid-Holland,Schiedam,Schiedam Zwemclub,2
+NED,Zuid-Holland,Gouda,Widex GZC Donk,2
+NED,Zuid-Holland,Delft,d'ELFT,2
+NED,Zuid-Holland,Zoetermeer,WVZ,3
+NED,Zuid-Holland,Alphen aan den Rijn,AZC,2
+NED,Gelderland,Nijmegen,Aqua-Novio'94,4
+NED,Gelderland,Arnhem,ESCA Zwemmen,3
+NED,Gelderland,Apeldoorn,Aquapoldro,3
+NED,Gelderland,Ede,Polar Bears,2
+NED,Gelderland,Doetinchem,NDD,2
+NED,Gelderland,Wageningen,De Rijn,2
+NED,Gelderland,Tiel,Batavia Swim,2
+NED,Gelderland,Barneveld,DWK,3
+NED,Utrecht,Amersfoort,ZPC Amersfoort,5
+NED,Utrecht,Utrecht,Zwemclub Utrecht,3
+NED,Utrecht,Veenendaal,VZC,3
+NED,Utrecht,Zeist,ZPC Watervlo,2
+NED,Utrecht,Nieuwegein,Aquarijn,2
+NED,Overijssel,Enschede,EZC,3
+NED,Overijssel,Zwolle,Zwemclub Zwolle,3
+NED,Overijssel,Deventer,Zwemclub De IJsel,2
+NED,Overijssel,Hengelo,WS Twente,2
+NED,Overijssel,Almelo,Zwemclub de Veene,2
+NED,Flevoland,Almere,De Schotejil,2
+NED,Flevoland,Lelystad,Batavia Swim Lelystad,2
+NED,Zeeland,Middelburg,Zwemclub Zeeland,3
+NED,Zeeland,Vlissingen,Luctor et Emergo,2
+NED,Friesland,Leeuwarden,Orca,3
+NED,Friesland,Heerenveen,HZ&PC Heerenveen,2
+NED,Groningen,Groningen,TriVia,4
+NED,Groningen,Groningen,ZPC Stadskanaal,2
+NED,Drenthe,Assen,Aqua 68,2
+NED,Drenthe,Emmen,Zwemclub Polaris,2
+NED,Limburg,Maastricht,MZ&PC,3
+NED,Limburg,Venlo,Mosa-Regio,2
+BRA,São Paulo,São Paulo,Esporte Clube Pinheiros,5
+BRA,São Paulo,São Paulo,Corinthians,5
+BRA,São Paulo,São Paulo,SESI-SP,4
+BRA,São Paulo,São Paulo,Paineiras do Morumby,4
+BRA,São Paulo,Santos,Unisanta,5
+BRA,São Paulo,São Bernardo do Campo,Associação São Bernardo,3
+BRA,São Paulo,Campinas,Clube Campineiro,3
+BRA,São Paulo,São José dos Campos,São José Desportivo,3
+BRA,São Paulo,Guarulhos,Guarulhos Natação,3
+BRA,São Paulo,Ribeirão Preto,Recreativa,2
+BRA,São Paulo,Santo André,Primeiro de Maio,2
+BRA,São Paulo,Bauru,Bauru Tênis Clube,2
+BRA,São Paulo,Franca,Franca Natação,2
+BRA,São Paulo,Piracicaba,Clube de Campo Piracicaba,2
+BRA,São Paulo,Jundiaí,Jundiaiense,2
+BRA,São Paulo,Sorocaba,Sorocaba Aquatics,2
+BRA,São Paulo,Osasco,Osasco Natação,2
+BRA,São Paulo,São Caetano do Sul,São Caetano,2
+BRA,São Paulo,Araraquara,Araraquarense,2
+BRA,São Paulo,Presidente Prudente,Prudentina,2
+BRA,Rio de Janeiro,Rio de Janeiro,Flamengo,5
+BRA,Rio de Janeiro,Rio de Janeiro,Fluminense,4
+BRA,Rio de Janeiro,Rio de Janeiro,Vasco da Gama,4
+BRA,Rio de Janeiro,Rio de Janeiro,Botafogo,4
+BRA,Rio de Janeiro,Rio de Janeiro,Tijuca Tênis Clube,3
+BRA,Rio de Janeiro,Niterói,Canto do Rio,3
+BRA,Rio de Janeiro,Macaé,Macaé Natação,2
+BRA,Rio de Janeiro,Campos,Campos Aquatics,2
+BRA,Rio de Janeiro,Petrópolis,Petropolitano,2
+BRA,Rio de Janeiro,Volta Redonda,Volta Redonda Natação,2
+BRA,Minas Gerais,Belo Horizonte,Minas Tênis Clube,5
+BRA,Minas Gerais,Uberlândia,Praia Clube,4
+BRA,Minas Gerais,Belo Horizonte,Mackenzie EC,3
+BRA,Minas Gerais,Belo Horizonte,Olympico Club,3
+BRA,Minas Gerais,Juiz de Fora,Sport Club Juiz de Fora,2
+BRA,Minas Gerais,Contagem,Contagem Aquatics,2
+BRA,Minas Gerais,Betim,Betim Natação,2
+BRA,Minas Gerais,Uberaba,Uberaba Sport,2
+BRA,Minas Gerais,Ipatinga,Usipa,2
+BRA,Minas Gerais,Governador Valadares,Filadélfia,2
+BRA,Rio Grande do Sul,Porto Alegre,Grêmio Náutico União,5
+BRA,Rio Grande do Sul,Porto Alegre,Sogipa,4
+BRA,Rio Grande do Sul,Caxias do Sul,Recreio da Juventude,3
+BRA,Rio Grande do Sul,Novo Hamburgo,Sociedade Ginástica,3
+BRA,Rio Grande do Sul,Pelotas,Pelotas Natação,2
+BRA,Rio Grande do Sul,Santa Maria,Clube Dores,2
+BRA,Paraná,Curitiba,Curitibano,4
+BRA,Paraná,Curitiba,Santa Mônica,3
+BRA,Paraná,Londrina,Londrina Country Club,3
+BRA,Paraná,Maringá,Maringá Clube,2
+BRA,Paraná,Cascavel,Cascavel Natação,2
+BRA,Paraná,Ponta Grossa,Ponta Lagoa,2
+BRA,Santa Catarina,Florianópolis,Lira Tênis Clube,3
+BRA,Santa Catarina,Joinville,Joinville Natação,3
+BRA,Santa Catarina,Blumenau,Blumenau Aquatics,2
+BRA,Santa Catarina,Criciúma,Mampituba,2
+BRA,Pernambuco,Recife,Sport Club do Recife,4
+BRA,Pernambuco,Recife,Clube Português,3
+BRA,Bahia,Salvador,Yacht Clube da Bahia,3
+BRA,Distrito Federal,Brasília,Iate Clube de Brasília,3
+ESP,Cataluña,Barcelona,CN Sant Andreu,5
+ESP,Cataluña,Sabadell,CN Sabadell,5
+ESP,Cataluña,Terrassa,CN Terrassa,4
+ESP,Cataluña,Barcelona,CE Mediterrani,4
+ESP,Cataluña,Barcelona,CN Barcelona,4
+ESP,Cataluña,Mataró,CN Mataró,4
+ESP,Cataluña,Barcelona,CN Atletic-Barceloneta,3
+ESP,Cataluña,Girona,GEiEG,3
+ESP,Cataluña,Tarragona,CN Tarraco,3
+ESP,Cataluña,Lleida,CN Lleida,3
+ESP,Cataluña,Granollers,CN Granollers,2
+ESP,Cataluña,Manresa,CN Minorisa,2
+ESP,Cataluña,Badalona,CN Badalona,2
+ESP,Cataluña,Cornellà,CN Cornellà,2
+ESP,Cataluña,Vic,CN Vic-ETB,2
+ESP,Madrid,Madrid,Real Canoe NC,5
+ESP,Madrid,Madrid,CD Gredos San Diego,4
+ESP,Madrid,Madrid,Madrid Moscardó,4
+ESP,Madrid,Alcobendas,CN Alcobendas,3
+ESP,Madrid,Leganés,CN Leganés,3
+ESP,Madrid,Móstoles,ADN Móstoles,3
+ESP,Madrid,Alcorcón,CN Ciudad de Alcorcón,2
+ESP,Madrid,Pozuelo,CN Pozuelo,2
+ESP,Madrid,Rivas,AD Rivas Natación,2
+ESP,Madrid,Alcalá de Henares,CN Alcalá,2
+ESP,Andalucía,Sevilla,CN Mairena Aljarafe,4
+ESP,Andalucía,Córdoba,Navial,4
+ESP,Andalucía,Granada,CN Churriana,4
+ESP,Andalucía,Málaga,RC Mediterráneo,3
+ESP,Andalucía,Cádiz,CN Bahía de Cádiz,3
+ESP,Andalucía,Dos Hermanas,CN Dos Hermanas,3
+ESP,Andalucía,Almería,CN Almería,2
+ESP,Andalucía,Jaén,CN Jaén,2
+ESP,Andalucía,Huelva,CN Colombino,2
+ESP,Andalucía,Marbella,CN Marbella,2
+ESP,Comunidad Valenciana,Valencia,CN Ferca-San Jose,4
+ESP,Comunidad Valenciana,Elche,Club Tenis Elche,4
+ESP,Comunidad Valenciana,Castellón,CST-CST Costa Azahar,3
+ESP,Comunidad Valenciana,Alicante,CN Delfin,3
+ESP,Comunidad Valenciana,Vinaròs,CN Vinaròs,2
+ESP,Comunidad Valenciana,Benidorm,CN Benidorm,2
+ESP,Galicia,Pontevedra,CN Galaico,3
+ESP,Galicia,A Coruña,CN Liceo,3
+ESP,Galicia,Ourense,CN Pabellón Ourense,2
+ESP,Galicia,Vigo,RCN Vigo,2
+ESP,País Vasco,Irun,Bidasoa XXI,4
+ESP,País Vasco,Getxo,Getxo Igeriketa W,3
+ESP,País Vasco,Vitoria-Gasteiz,Judizmendi,3
+ESP,País Vasco,San Sebastián,CD Fortuna,2
+ESP,Islas Baleares,Palma,CN Palma de Mallorca,4
+ESP,Islas Baleares,Palma,CN Voltor Balear,3
+ESP,Islas Baleares,Ibiza,CN Eivissa,2
+ESP,Canarias,Las Palmas,CN Metropole,4
+ESP,Canarias,Las Palmas,CN Las Palmas,3
+ESP,Canarias,Tenerife,RCN Tenerife,2
+ESP,Castilla y León,Valladolid,CD Parquesol,2
+ESP,Castilla y León,Burgos,CN Castilla-Burgos,2
+ESP,Aragón,Zaragoza,Stadium Venecia,3
+ESP,Murcia,Murcia,UCAM CN Fuensanta,3
+ESP,Asturias,Oviedo,CN Ciudad de Oviedo,2
+SWE,Stockholm,Stockholm,SK Neptun,5
+SWE,Stockholm,Stockholm,Spårvägens SF,4
+SWE,Stockholm,Täby,Täby Sim,4
+SWE,Stockholm,Stockholm,Stockholmspolisens IF,4
+SWE,Stockholm,Järfälla,Järfälla Simsällskap,3
+SWE,Stockholm,Väsby,Väsby SS,3
+SWE,Stockholm,Stockholm,Södertörns SS,3
+SWE,Stockholm,Danderyd,Danderyds Sim,3
+SWE,Stockholm,Tyresö,Tyresö SS,2
+SWE,Stockholm,Nacka,Skuru IK,2
+SWE,Stockholm,Solna,Solna Sundbyberg SS,2
+SWE,Stockholm,Botkyrka,Botkyrka-Rönninge SS,2
+SWE,Stockholm,Lidingö,Lidingö SK,2
+SWE,Stockholm,Haninge,Södertälje SS,2
+SWE,Stockholm,Norrtälje,Norrtälje Sim,2
+SWE,Skåne,Malmö,Malmö Kappsimningsklubb,5
+SWE,Skåne,Helsingborg,Helsingborgs Simsällskap,5
+SWE,Skåne,Lund,SK Poseidon,4
+SWE,Skåne,Landskrona,Landskrona Simsällskap,3
+SWE,Skåne,Kristianstad,Kristianstads SLS,3
+SWE,Skåne,Ystad,Ystads Simsällskap,2
+SWE,Skåne,Ängelholm,Ängelholms SS,2
+SWE,Skåne,Hässleholm,S71 Hässleholm,2
+SWE,Skåne,Trelleborg,Trelleborgs Sim,2
+SWE,Skåne,Kävlinge,Kävlinge SK,2
+SWE,Västra Götaland,Göteborg,Göteborg Sim,4
+SWE,Västra Götaland,Mölndal,Mölndals Allmänna SS,4
+SWE,Västra Götaland,Borås,SK Elfsborg,4
+SWE,Västra Götaland,Uddevalla,Uddevalla Sim,3
+SWE,Västra Götaland,Skövde,Skövde Simsällskap,3
+SWE,Västra Götaland,Kungsbacka,Kungsbacka Simsällskap,3
+SWE,Västra Götaland,Trollhättan,Trollhättans SS,2
+SWE,Västra Götaland,Falköping,Falköpings SS,2
+SWE,Västra Götaland,Alingsås,Alingsås SLS,2
+SWE,Västra Götaland,Lidköping,Lidköpings GSS,2
+SWE,Östergötland,Linköping,Linköpings Allmänna SS,4
+SWE,Östergötland,Norrköping,Norrköpings KK,4
+SWE,Östergötland,Motala,Motala Simsällskap,2
+SWE,Östergötland,Mjölby,Mjölby-Ödeshög Sim,2
+SWE,Östergötland,Finspång,Finspångs Sim,2
+SWE,Småland,Jönköping,Jönköpings Simsällskap,5
+SWE,Småland,Växjö,Växjö Simsällskap,3
+SWE,Småland,Kalmar,Kalmar Simsällskap,3
+SWE,Småland,Värnamo,Värnamo Simsällskap,2
+SWE,Småland,Västervik,Västerviks SS,2
+SWE,Uppland,Uppsala,Upsala Simsällskap,4
+SWE,Uppland,Enköping,Enköpings SS,2
+SWE,Uppland,Bålsta,Bålsta Sim,2
+SWE,Uppland,Östhammar,Östhammar SK,2
+SWE,Halland,Halmstad,SK Laxen,3
+SWE,Halland,Varberg,Varbergs Sim,3
+SWE,Halland,Falkenberg,Falkenbergs Sim,2
+SWE,Värmland,Karlstad,Karlstads Simsällskap,3
+SWE,Värmland,Säffle,Säffle SS,2
+SWE,Örebro,Örebro,Örebro Simallians,3
+SWE,Örebro,Karlskoga,Karlskoga SF,2
+SWE,Västmanland,Västerås,Västerås Simsällskap,3
+SWE,Västmanland,Köping,Köpings SS,2
+SWE,Norrland,Umeå,Umeå Simsällskap,3
+SWE,Norrland,Sundsvall,Sundsvalls SS,3
+RSA,Gauteng,Pretoria,TuksSwimming Club,5
+RSA,Gauteng,Johannesburg,Waterborn Swimming Club,5
+RSA,Gauteng,Johannesburg,Mandeville Dolphins,4
+RSA,Gauteng,Pretoria,HPC Pretoria,4
+RSA,Gauteng,Johannesburg,Linden Swimming Club,3
+RSA,Gauteng,Ekurhuleni,Boksburg Aquatics,3
+RSA,Gauteng,Pretoria,PSC Swimming,3
+RSA,Gauteng,Johannesburg,Electric Eels,3
+RSA,Gauteng,Pretoria,Hillcrest Swimming,2
+RSA,Gauteng,Johannesburg,Soweto Aquatics,2
+RSA,Gauteng,Kempten Park,Kempton Park Aquatics,2
+RSA,Gauteng,Centurion,Centurion Swimming,2
+RSA,Gauteng,Roodepoort,Florida Swimming,2
+RSA,Gauteng,Midrand,Midrand Aquatics,2
+RSA,Gauteng,Pretoria,Player Swimming,2
+RSA,Gauteng,Johannesburg,Quest Aquatics,2
+RSA,Gauteng,Boksburg,Soul Swimming,2
+RSA,Gauteng,Randburg,Randburg Aquatics,2
+RSA,Gauteng,Sandton,Sandton Seals,2
+RSA,Gauteng,Pretoria,AQUATZ,2
+RSA,KwaZulu-Natal,Durban,Seagulls Swimming Club,5
+RSA,KwaZulu-Natal,Durban,Action Swim Academy,4
+RSA,KwaZulu-Natal,Durban,Westville Swimming,4
+RSA,KwaZulu-Natal,Pietermaritzburg,Seals PMB,3
+RSA,KwaZulu-Natal,Kloof,Kloof ASC,3
+RSA,KwaZulu-Natal,Durban,Totnes Swimming,3
+RSA,KwaZulu-Natal,Amanzimtoti,Amanzimtoti SC,2
+RSA,KwaZulu-Natal,Richards Bay,Ushaka Swimming,2
+RSA,KwaZulu-Natal,Durban,Sydenham Swimming,2
+RSA,KwaZulu-Natal,Newcastle,Newcastle Aquatics,2
+RSA,KwaZulu-Natal,Pinetown,Pinetown ASC,2
+RSA,KwaZulu-Natal,Durban,Beavers Swimming,2
+RSA,Western Cape,Cape Town,Vineyards SC,5
+RSA,Western Cape,Cape Town,Tygerberg Aquatics,4
+RSA,Western Cape,Cape Town,Cybersmart Aquatics,4
+RSA,Western Cape,Stellenbosch,Maties Swimming,5
+RSA,Western Cape,Cape Town,Camps Bay Swimming,3
+RSA,Western Cape,Cape Town,Marlin Swimming Club,3
+RSA,Western Cape,Cape Town,Swimlab Aquatic,3
+RSA,Western Cape,Bellville,Bellville Aquatics,3
+RSA,Western Cape,Somerset West,Somerset West Aquatics,2
+RSA,Western Cape,Paarl,Paarl Aquarius,2
+RSA,Western Cape,George,George Swimming Club,2
+RSA,Western Cape,Cape Town,Khayelitsha Aquatics,2
+RSA,Western Cape,Cape Town,Blue Downs Swimming,2
+RSA,Western Cape,Cape Town,Quick Silver,2
+RSA,Western Cape,Knysna,Knysna Dragons,2
+RSA,Eastern Cape,Gqeberha,PEA Swimming Club,4
+RSA,Eastern Cape,Gqeberha,Infinity Swimming,4
+RSA,Eastern Cape,East London,Harlequins Aquatic,3
+RSA,Eastern Cape,Gqeberha,Aquabear Swimming,3
+RSA,Eastern Cape,East London,Buffalo City Aquatics,2
+RSA,Free State,Bloemfontein,Bloemfontein Seals,4
+RSA,Free State,Bloemfontein,Otters Rustenburg,3
+RSA,Free State,Welkom,Welkom Aquatics,2
+RSA,North West,Potchefstroom,Potchefstroom SC,3
+RSA,North West,Rustenburg,Rustenburg Swimming,2
+RSA,North West,Klerksdorp,Klerksdorp Aquatics,2
+RSA,Mpumalanga,Nelspruit,Uniswim Nelspruit,3
+RSA,Mpumalanga,Witbank,Witbank Swimming,2
+KOR,Seoul,Seoul,Seoul Swimming Federation,5
+KOR,Seoul,Seoul,Korea National Sport Univ,5
+KOR,Seoul,Seoul,Seoul Phys Ed High,4
+KOR,Seoul,Seoul,Gangnam Aquatics,4
+KOR,Seoul,Seoul,Jamsil Swim Club,3
+KOR,Seoul,Seoul,Seocho Dolphins,3
+KOR,Seoul,Seoul,Mapo Water Sports,3
+KOR,Seoul,Seoul,Songpa Swimming,3
+KOR,Seoul,Seoul,Dongdaemun Aquatics,2
+KOR,Seoul,Seoul,Yongsan Swim Team,2
+KOR,Seoul,Seoul,Seongdong Sea Lions,2
+KOR,Seoul,Seoul,Nowon Swim Club,2
+KOR,Seoul,Seoul,Gwanak Aquatics,2
+KOR,Seoul,Seoul,Yangcheon Swim,2
+KOR,Seoul,Seoul,Gangseo Blue Water,2
+KOR,Gyeonggi,Suwon,Suwon City Hall,5
+KOR,Gyeonggi,Goyang,Goyang City Hall,4
+KOR,Gyeonggi,Seongnam,Seongnam Aquatics,4
+KOR,Gyeonggi,Anyang,Anyang Dolphins,4
+KOR,Gyeonggi,Yongin,Yongin Swim Team,3
+KOR,Gyeonggi,Bucheon,Bucheon Aquatics,3
+KOR,Gyeonggi,Ansan,Ansan Water Sports,3
+KOR,Gyeonggi,Hwaseong,Hwaseong Swimming,3
+KOR,Gyeonggi,Namyangju,Namyangju Blue,2
+KOR,Gyeonggi,Pyeongtaek,Pyeongtaek Swim,2
+KOR,Gyeonggi,Gimpo,Gimpo Aquatics,2
+KOR,Gyeonggi,Gwangmyeong,Gwangmyeong Swim,2
+KOR,Gyeonggi,Gunpo,Gunpo Dolphins,2
+KOR,Gyeonggi,Icheon,Icheon Aquatics,2
+KOR,Gyeonggi,Osan,Osan Sea Lions,2
+KOR,Busan,Busan,Busan Sports Council,4
+KOR,Busan,Busan,Dong-A University,4
+KOR,Busan,Busan,Haeundae Swim Club,3
+KOR,Busan,Busan,Suyeong Aquatics,3
+KOR,Busan,Busan,Nam-gu Dolphins,2
+KOR,Busan,Busan,Seomyeon Swim Team,2
+KOR,Busan,Busan,Buk-gu Water Sports,2
+KOR,Busan,Busan,Geumjeong Aquatics,2
+KOR,Incheon,Incheon,Incheon City Hall,4
+KOR,Incheon,Incheon,Incheon Phys Ed High,4
+KOR,Incheon,Incheon,Yeonsu Aquatics,3
+KOR,Incheon,Incheon,Namdong Swim Team,2
+KOR,Incheon,Incheon,Bupyeong Dolphins,2
+KOR,Daegu,Daegu,Daegu Metro Swim Team,4
+KOR,Daegu,Daegu,Suseong Aquatics,3
+KOR,Daegu,Daegu,Dalseo Swim Club,2
+KOR,Daegu,Daegu,Dong-gu Water Sports,2
+KOR,Gwangju,Gwangju,Gwangju Sports Council,4
+KOR,Gwangju,Gwangju,Buk-gu Swimming,3
+KOR,Gwangju,Gwangju,Seo-gu Aquatics,2
+KOR,Daejeon,Daejeon,Daejeon Swim Team,4
+KOR,Daejeon,Daejeon,Yuseong Dolphins,3
+KOR,Daejeon,Daejeon,Seo-gu Aquatics,2
+KOR,Ulsan,Ulsan,Ulsan City Hall,3
+KOR,Ulsan,Ulsan,Nam-gu Swim Club,2
+KOR,Jeju,Jeju City,Jeju Provincial Swim,4
+KOR,Jeju,Seogwipo,Seogwipo Aquatics,2
+KOR,Gangwon,Chuncheon,Gangwon Provincial,3
+KOR,Chungcheongnam,Cheonan,Cheonan City Hall,3
+KOR,Jeollabuk,Jeonju,Jeonju Aquatics,3
+ROU,Bucuresti,Bucuresti,Steaua Bucuresti,5
+ROU,Bucuresti,Bucuresti,Dinamo Bucuresti,5
+ROU,Bucuresti,Bucuresti,CSM Bucuresti,5
+ROU,Bucuresti,Bucuresti,Olimpia Bucuresti,4
+ROU,Bucuresti,Bucuresti,Sportul Studentesc,4
+ROU,Bucuresti,Bucuresti,Aqua Team Bucuresti,3
+ROU,Bucuresti,Bucuresti,Renovatio Sport Club,3
+ROU,Bucuresti,Bucuresti,Bucharest Sport Club,3
+ROU,Bucuresti,Bucuresti,Navi Bucuresti,2
+ROU,Bucuresti,Bucuresti,Delfinul Bucuresti,2
+ROU,Cluj,Cluj-Napoca,Universitatea Cluj,4
+ROU,Cluj,Cluj-Napoca,CSM Cluj,3
+ROU,Cluj,Cluj-Napoca,Politehnica Cluj,2
+ROU,Timis,Timisoara,CSM Timisoara,4
+ROU,Timis,Timisoara,Aquasport Timisoara,3
+ROU,Timis,Timisoara,Delfin Timisoara,2
+ROU,Constanta,Constanta,Farul Constanta,4
+ROU,Constanta,Constanta,Ateneu Constanta,3
+ROU,Constanta,Constanta,Palatul Copiilor Constanta,2
+ROU,Brasov,Brasov,Corona Brasov,3
+ROU,Brasov,Brasov,CSM Brasov,3
+ROU,Iasi,Iasi,Politehnica Iasi,3
+ROU,Iasi,Iasi,CSM Iasi,2
+ROU,Arad,Arad,CSM Arad,3
+ROU,Arad,Arad,Vinga Arad,2
+ROU,Bihor,Oradea,CSM Oradea,3
+ROU,Arges,Pitesti,CSM Pitesti,3
+ROU,Prahova,Ploiesti,Petrolul Ploiesti,3
+ROU,Maramures,Baia Mare,LPS Baia Mare,2
+ROU,Sibiu,Sibiu,Sibiu Sport Club,2
+LTU,Vilnius,Vilnius,Sostines SC,5
+LTU,Vilnius,Vilnius,Vilniaus MSC,4
+LTU,Vilnius,Vilnius,Impuls PA,3
+LTU,Vilnius,Vilnius,Olimpija Vilnius,3
+LTU,Vilnius,Vilnius,Koralis Vilnius,2
+LTU,Vilnius,Vilnius,Vilniaus Vanduo,2
+LTU,Vilnius,Vilnius,Sveikatos Banga,2
+LTU,Vilnius,Vilnius,Žuvėdra Vilnius,2
+LTU,Kaunas,Kaunas,Kauno PM,5
+LTU,Kaunas,Kaunas,Kauno SM Startas,4
+LTU,Kaunas,Kaunas,Banga Kaunas,3
+LTU,Kaunas,Kaunas,Klausuciu Kaunas,3
+LTU,Kaunas,Kaunas,Kauno Vandenys,2
+LTU,Kaunas,Kaunas,Dainava Kaunas,2
+LTU,Kaunas,Kaunas,Silainiai SC,2
+LTU,Klaipeda,Klaipeda,Gintaro SC,4
+LTU,Klaipeda,Klaipeda,Klaipedos MSC,3
+LTU,Klaipeda,Klaipeda,Bure Klaipeda,2
+LTU,Klaipeda,Klaipeda,Viesulas Klaipeda,2
+LTU,Siauliai,Siauliai,Siauliu Delfinas,4
+LTU,Siauliai,Siauliai,Siauliu PC,3
+LTU,Siauliai,Siauliai,Gintaras Siauliai,2
+LTU,Panevezys,Panevezys,Panevezio Zemyna,4
+LTU,Panevezys,Panevezys,Panevezio SG,3
+LTU,Panevezys,Panevezys,Aukstaitija Panevezys,2
+LTU,Alytus,Alytus,Alytaus SRC,3
+LTU,Alytus,Alytus,Dzūkija Alytus,2
+LTU,Marijampole,Marijampole,Marijampoles SC,2
+LTU,Anyksciai,Anyksciai,Anyksciu KKSC,2
+LTU,Utena,Utena,Utenos DSC,2
+BEL,Antwerpen,Antwerpen,BRABO,5
+BEL,Antwerpen,Antwerpen,Antwerp Natation,4
+BEL,Antwerpen,Mechelen,Racing Swimming Club,3
+BEL,Antwerpen,Geel,Zwemclub Geel,3
+BEL,Antwerpen,Brasschaat,Brasschaatse Zwemclub,2
+BEL,Antwerpen,Turnhout,Turnhoutse Zwemclub,2
+BEL,Brussels,Brussels,Cercle Natation Bruxelles,5
+BEL,Brussels,Brussels,Bouledogues de Bruxelles,4
+BEL,Brussels,Brussels,Brussels Triton,3
+BEL,Brussels,Ixelles,Ixelles Macaques,2
+BEL,Oost-Vlaanderen,Gent,MEGA Zwemteam,5
+BEL,Oost-Vlaanderen,Gent,Gentse Zwemvereniging,4
+BEL,Oost-Vlaanderen,Sint-Niklaas,Sint-Niklase Zwemclub,3
+BEL,Oost-Vlaanderen,Aalst,Aalsterse Zwemvereniging,2
+BEL,Liège,Liège,Liège Natation,5
+BEL,Liège,Liège,Mosan,4
+BEL,Liège,Seraing,Esneux Natation,3
+BEL,Liège,Verviers,Verviers Natation,2
+BEL,Vlaams-Brabant,Leuven,Leuven Aquatics,4
+BEL,Vlaams-Brabant,Tienen,Tiense Zwemmers,3
+BEL,Vlaams-Brabant,Halle,Halse Zwemclub,2
+BEL,West-Vlaanderen,Brugge,Brugse Zwemkring,4
+BEL,West-Vlaanderen,Kortrijk,Kortrijkse Zwemkring,3
+BEL,West-Vlaanderen,Oostende,Royal Ostend Swimming,2
+BEL,Hainaut,Charleroi,Charleroi Hélios,4
+BEL,Hainaut,Mons,Mons Hainaut Natation,3
+BEL,Hainaut,Tournai,Tournai Natation,2
+BEL,Limburg,Hasselt,Hasseltse Zwemvereniging,3
+BEL,Limburg,Genk,Genker Zwemvereniging,2
+BEL,Namur,Namur,Namur Olympic Club,3
+SUI,Zürich,Uster,SC Uster Wallisellen,5
+SUI,Genève,Genève,Genève Natation,5
+SUI,Zürich,Zürich,Limmat Sharks Zürich,5
+SUI,Bern,Bern,Schwimmclub Bern,4
+SUI,Vaud,Lausanne,Lausanne Aquatique,4
+SUI,Basel-Stadt,Basel,SV Basel,4
+SUI,Ticino,Lugano,Lugano Aquatics,4
+SUI,Grisons,Chur,Schwimmclub Chur,3
+SUI,Ticino,Locarno,Nuoto Sport Locarno,3
+SUI,Aargau,Aarau,Schwimmclub Aarau,3
+SUI,Zürich,Winterthur,Schwimmclub Winterthur,3
+SUI,St. Gallen,St. Gallen,Schwimmclub St. Gallen,3
+SUI,Luzern,Luzern,Schwimmclub Luzern,3
+SUI,Fribourg,Fribourg,Fribourg Natation,3
+SUI,Neuchâtel,Neuchâtel,Red-Fish Neuchâtel,3
+SUI,Valais,Sion,Sion Natation,3
+SUI,Thurgau,Frauenfeld,Schwimmclub Frauenfeld,2
+SUI,Ticino,Bellinzona,Turrita Nuoto,2
+SUI,Schaffhausen,Schaffhausen,SC Schaffhausen,2
+SUI,Zug,Zug,Schwimmclub Zug,2
+SUI,Vaud,Morges,Morges Natation,2
+SUI,Vaud,Vevey,Vevey Natation,2
+SUI,Zürich,Meilen,Schwimmclub Meilen,2
+SUI,Zürich,Horgen,Schwimmclub Horgen,2
+SUI,Basel-Landschaft,Liestal,SC Liestal,2
+SUI,Genève,Carouge,Carouge Natation,2
+SUI,Genève,Lancy,Lancy Natation,2
+SUI,Bern,Thun,Schwimmclub Thun,2
+SUI,Bern,Biel,Swim Team Biel-Bienne,2
+SUI,Solothurn,Solothurn,Schwimmclub Solothurn,2
